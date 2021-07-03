@@ -3,7 +3,7 @@ layout: post
 title:  Almost done
 date:   2021-07-03 14:39:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-1.jpg # Add image post (optional)
+img: adam-blog-imac.jpg # Add image post (optional)
 tags: [Blog, Sunrise]
 author: # Add name author (optional)
 ---
